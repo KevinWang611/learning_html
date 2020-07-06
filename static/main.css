@@ -1,0 +1,15 @@
+body {
+  color: blue;
+}
+
+div {
+  color: orange;
+}
+
+#special_div {
+  color: violet;
+}
+
+.notif {
+  color: gray;
+}
