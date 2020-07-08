@@ -22,14 +22,17 @@
     </div>
 
     <div id='special_div'>
-      Special div
+      1
     </div>
 
     <div class='notif'>
       Notif 2
     </div>
 
-    <button type="button" class="btn btn-success">Click Me Success!</button>
+    <button type="button" class="btn btn-success"
+            onclick="document.getElementById('special_div').innerHTML+=1;document.getElementById('special_div').innerHTML+=2;">
+      Change value of div
+    </button>
     <button type="button" class="btn btn-info">Click Me Info!</button>
   </body>
 </html>
