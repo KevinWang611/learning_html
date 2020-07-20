@@ -34,3 +34,18 @@ git checkout name_of_branch
 # Merge changes of master in your local branch
 git merge master
 ```
+
+## Pull Request
+
+Merge changes from a branch to the master
+
+* Create branch if it doesn't exist yet
+* Commit changes locally
+* Push changes to origin (github)
+
+![](image/pull_req_1.PNG)
+
+
+
+
+
