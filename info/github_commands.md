@@ -39,13 +39,24 @@ git merge master
 
 Merge changes from a branch to the master
 
-* Create branch if it doesn't exist yet
-* Commit changes locally
-* Push changes to origin (github)
+* Create branch if it doesn't exist yet (see tutorial above)
+* Commit changes locally, in your local branch (see tutorial above)
+* Push your local branch changes to origin (GitHub). You want your local branch to be in GitHub because you would have to **open a pull request** using the web browser.
 
 ![](image/pull_req_1.PNG)
 
+* Go to the project's URL, and look for your branch. Click **Merge pull request**.
 
+![](image\open_pull_req_2.PNG)
 
+![pull_req_3](image\pull_req_3.PNG)
 
+![pull_req_4](image\pull_req_4.PNG)
 
+![pull_req_5](image\pull_req_5.PNG)
+
+![pull_req_6](image\pull_req_6.PNG)
+
+![pull_req_7](image\pull_req_7.PNG)
+
+![pull_req_8](image\pull_req_8.PNG)
