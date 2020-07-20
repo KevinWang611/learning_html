@@ -45,6 +45,12 @@ Merge changes from a branch to the master
 
 ![](image/pull_req_1.PNG)
 
+![web_02](image\web_01.PNG)
+
+![web_03](image\web_02.PNG)
+
+![web_01](image\web_03.PNG)
+
 * Go to the project's URL, and look for your branch. Click **Merge pull request**.
 
 ![](image\open_pull_req_2.PNG)
