@@ -39,7 +39,13 @@ git merge master
 
 Merge changes from a branch to the master
 
-```bash
+* Create branch if it doesn't exist yet
+* Commit changes locally
+* Push changes to origin (github)
 
-```
+![](image/pull_req_1.PNG)
+
+
+
+
 
