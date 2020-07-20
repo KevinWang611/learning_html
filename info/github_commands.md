@@ -34,3 +34,12 @@ git checkout name_of_branch
 # Merge changes of master in your local branch
 git merge master
 ```
+
+## Pull Request
+
+Merge changes from a branch to the master
+
+```bash
+
+```
+
