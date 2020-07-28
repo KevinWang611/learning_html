@@ -55,8 +55,6 @@ Merge changes from a branch to the master
 
 ![](./image/pull_req_2.PNG)
 
-* 
-
 * Create a pull request, and leave a descriptive comment.
 
 ![pull_req_3](./image/pull_req_3.PNG)
