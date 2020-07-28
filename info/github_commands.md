@@ -57,7 +57,7 @@ Merge changes from a branch to the master
 
 * 
 
-* Create a pull request, and leave a descriptve comment.
+* Create a pull request, and leave a descriptive comment.
 
 ![pull_req_3](image\pull_req_3.PNG)
 
