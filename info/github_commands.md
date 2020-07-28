@@ -40,7 +40,7 @@ git merge master
 Merge changes from a branch to the master
 
 * Create branch if it doesn't exist yet (see tutorial above)
-* Commit changes locally, in your local branch (see tutorial above)
+* `git status` Commit changes locally, in your local branch (see tutorial above)
 * Push your local branch changes to origin (GitHub). You want your local branch to be in GitHub because you would have to **open a pull request** using the web browser.
 
 ![](image/pull_req_1.PNG)
